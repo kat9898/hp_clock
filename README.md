@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Harry Potter lock
+![image](https://user-images.githubusercontent.com/39970318/215168898-814c2dc1-b75e-4f79-8e81-9d7a982ab62f.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
