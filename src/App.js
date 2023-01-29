@@ -1,10 +1,12 @@
 import './App.css';
-import Clock from './Clock';
+import Clock from './components/Clock';
+import Modal from './components/Modal';
 
 function App() {
   return (
     <div className="App">
-      <Clock />
+      {/* <Clock /> */}
+      <Modal />
     </div>
   );
 }
